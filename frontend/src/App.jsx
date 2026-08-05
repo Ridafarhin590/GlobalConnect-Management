@@ -25,7 +25,6 @@ import EditProduct from "./pages/dashboard/exporter/EditProduct"
 import Settings from "./pages/dashboard/Settings"
 import Help from "./pages/dashboard/Help"
 import Chatbot from "./components/Chatbot"
-import AddProduct from "./pages/Products/AddProduct";
 
 
 
